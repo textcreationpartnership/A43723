@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the Right Honourable Julian Vicountess Camden at Camden Jan. 12, 1680/1</title>
+            <author>Hicks, Henry, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43723</idno>
+            <idno type="STC">Wing H1918B</idno>
+            <idno type="STC">ESTC R40987</idno>
+            <idno type="EEBO-CITATION">19542149</idno>
+            <idno type="OCLC">ocm 19542149</idno>
+            <idno type="VID">109097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109097)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1689:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the Right Honourable Julian Vicountess Camden at Camden Jan. 12, 1680/1</title>
+                  <author>Hicks, Henry, d. 1692.</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Henry Hicks.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philemon III, 20-21 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109097:1"/>
+            <pb facs="tcp:109097:1"/>
+            <p>A SERMON Preached at the Funeral of the RIGHT HONOURABLE JULIAN <hi>
+                  <g ref="char:V">Ʋ</g>ICO<g ref="char:V">Ʋ</g>NTESS</hi> CAMDEN, At <hi>Camden,</hi> Jan. 12. 1680/1</p>
+            <q>Honour is deceitfull and Beauty is vain, but a woman that feareth the Lord ſhall be praiſed, <bibl>
+                  <hi>Prov. 31.3.</hi>
+               </bibl>
+            </q>
+            <q>Keep innocency, and do the thing that is juſt, for this will bring a man peace at the latter end, <bibl>
+                  <hi>Pſal. 37.38.</hi>
+               </bibl>
+            </q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Univerſity <hi>Anno Domini,</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109097:2"/>
+            <pb facs="tcp:109097:2" rendition="simple:additions"/>
+            <head>TO The Right Honorable BAPTIST, Viſcount Camden, BARON of <hi>ILMINGTON</hi> &amp; <hi>RIDLINGTON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>A<g ref="char:V">Ʋ</g>ING Preached this Sermon, I had no thoughts of making it publick; But having been ſince ſollicited for Copies, by ſome very honorable Perſons, whoſe commands I cannot with<g ref="char:EOLhyphen"/>stand, and whoſe judgments I cannot controle; and conſidering that Tranſlating of Exemplars would be weariſome, if not endleſs: I reſolved to commit them to the Preſs, yet ſo as the Philoſopher anſwered <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> his Books, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſcripſi, &amp; non ſcripſi,</hi> I have Printed, yet not Printed them: Printed them that is, but with no intent to publiſh them, having con<g ref="char:EOLhyphen"/>fined the number of my Copies, as near as I can conjec<g ref="char:EOLhyphen"/>ture to the number of the Perſons that may probably deſire them: That ſo I might ſhew my zeal to the ſur<g ref="char:EOLhyphen"/>viving branches of the Deceaſed Lady, whoſe memory
+<pb facs="tcp:109097:3"/> I adorn, and ſubject my ſelf to the Cenſures only of an Honorable Familie, and not of a Cenſorious Nation. I add no more, but my hearty prayers to the Almighty, that the Bleſſings of both hands, and both worlds, may be the portion of Your Lordſhip, your Noble Lady, and your Hopeful Off-ſpring.</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Lordſhips Moſt Humble &amp; Obedient Servant</hi> Henry Hicks.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:109097:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>3. Phil. 20, 21.</hi>
+                  </bibl>
+                  <p>For our converſation is in heaven, from whence alſo we look for the Saviour, the Lord Jeſus Chriſt: Who ſhall change our vile body that it may be faſhioned like unto his glorious body, according to the working whereby he is able even to ſubdue all things to himſelf.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>HEN one of the Fathers was to Preach upon a ſubject of Mortality, he read the text, ſhut the book, and ſpent the hour in groans and tears. This preſent Text of Providence, Our loſs of ſo Honorable and Religious a Mother in Iſrael, might juſtifie the action, ſhould we follow the example. But being aſſured that death it ſelf, is but a paſſage to a better life, and the Grave but an entry to glory, therefore though our hearts are ſad with ſorrow for our loſs, yet our Text revives us into comfort in her, and joy in our ſelves; minding us of our <hi>Converſation in Heaven,</hi> where while ſhe is by Fruition, let us be alſo by Con<g ref="char:EOLhyphen"/>templation, remembring that <hi>Our Converſation</hi> &amp;c.</p>
+            <p>The words read upon this ſolemn and very ſad occaſion offer more immediately theſe two Generals to our conſideration
+<list>
+                  <pb n="2" facs="tcp:109097:4"/>
+                  <item>1. <hi>Something to be known as Doctrinal.</hi>
+                  </item>
+                  <item>2. <hi>Something to be done as Practical.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The things to be known are Three.</p>
+            <list>
+               <item>1. <hi>That there is a Change to paſs upon all.</hi>
+               </item>
+               <item>2. <hi>That this Change is for the better, to advance our earthly natures, even to the conformity with the glo<g ref="char:EOLhyphen"/>grious body of Jeſus.</hi>
+               </item>
+               <item>3. <hi>That the efficient Author of this Change is our Saviour Jeſus Christ.</hi>
+               </item>
+            </list>
+            <p n="2">2. The things to be done by us in order to this Change are,
+<list>
+                  <item>1. <hi>To have our Converſation in heaven.</hi>
+                  </item>
+                  <item>2. <hi>To expect and wait for his comming.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt is our duty, the Second, our conſtancy in it, for which our Saviour has recorded a bleſſing in the 24. of St. <hi>Matthews</hi> Goſpel: <hi>Bleſsed is that ſer<g ref="char:EOLhyphen"/>vant whom his Lord when he cometh ſhall find ſo do<g ref="char:EOLhyphen"/>ing;</hi> Bleſſed indeed he is for he ſhall be rewarded with eternal glories.</p>
+            <p>And that we may be ſo too, let us conſider the doctrinal part of my Text, thereby to inform and en<g ref="char:EOLhyphen"/>gage us to the Practical.</p>
+            <p n="1">1. Then there is a change to paſs on all. Fleſh and Blood cannot inherit the kingdom of God, <hi>and this mortal muſt put on immortality</hi> before we can be ad<g ref="char:EOLhyphen"/>mitted into the heavenly manſions; and therefore doth the Apoſtle to encourage our hopes and excite our induſtry, ſpeak out and tell us, That <hi>the Trumpet
+<pb n="3" facs="tcp:109097:4"/> ſhall ſound, and the dead be raiſed incorruptible and we ſhall be changed.</hi> The dead ſhall ſtart at the ſhrill voice of the Trumpet from their beds of duſt, into the incorruptible conformity and likneſs of God.</p>
+            <p>They ſhall lay down their ſtench and corruption, frailties and decayes, the conſtant attendants of our mortal ſtate, and be cloathed with incorruption, and a Robe of Glory: And they who then ſhall live, will not put off their bodies, but their mortality, and be made like unto Chriſt both in the truth and glory of his Reſurrection: ſo great is our Change.</p>
+            <p>So great indeed, that all our imperfections will be done away: The Blind ſhall have his Sight repaired, to ſee and admire his glorious Redeemer.</p>
+            <p>We ſhall not only be reſtored to our bodies, but to our youth and vigor alſo. The walking ſtaffe, and the hoary head ſhall no longer be the ſupport &amp; diſtinction of age; and thoſe limbs which the unmer<g ref="char:EOLhyphen"/>ciful Saw divorced, or the fire conſumed, ſhall be re<g ref="char:EOLhyphen"/>ſtored with as much Miracle as Fleſh, and the Infant that left the world as ſoon as it ſaw the light, ſhall in a trice be as big as its Parent, and as glorious as its Redeemer.</p>
+            <p>And thus it is, that <hi>we ſhall bear the image of the Heavenly, as we have born that of the Earthly,</hi> (i.e.) As we have with our Protoplaſt <hi>Adam</hi> been mortal, ſinful, corruptible; ſo ſhall we be like the ſecond <hi>A<g ref="char:EOLhyphen"/>dam,</hi> pure, immortal, incorruptible.</p>
+            <pb n="4" facs="tcp:109097:5"/>
+            <p>But to know what this Change that is to paſs upon us at the laſt, will be, we muſt diſcover what is meant in the Text by Our <hi>Saviours glorious body:</hi> which we are not to collect from the dreams of Enthuſiaſts, and the conceited raptures of ſome fanciful men, but from the ſpirit of truth, and thoſe repreſentations of his glory, which are atteſted by the Sacred Oracles.</p>
+            <p>If therefore we look into the 17. of St. <hi>Matthew,</hi> we ſhall find that one tranſient glimps of Chriſts glori<g ref="char:EOLunhyphen"/>ous body in his Transfiguration upon the Mount, did ſo engroſs all the deſires and ardencies of three very eminent Apoſtles, that they could not breath out any thing but <hi>Lord it is good for us to be here.</hi>
+            </p>
+            <p>O happy place, here let us fix and rear Tabernacles, that we may joyfully continue in ſuch a preſence: Here, that we may have the influence of that face, which doth out-ſhine the ſun, and the pleaſure of that Raiment which is as white and comfortable as the light. So glorious it ſeems was the repreſentation, that <hi>Moſes</hi> thought God himſelf had buryed him, and given him ſuch a reward as belonged to him that was faithful in all his Houſe; yet will he for ſometime quit his enjoyments to behold that glorious body, to the likneſs of which our Text warrants ours to be one day faſhioned.</p>
+            <p>That glorious body, that tranſported its beholders, with ſuch unuſual ſplendours that a voice from heaven was forced to ſettle and direct them to the Object,
+<pb n="5" facs="tcp:109097:5"/> by telling them, <hi>This is my beloved ſon in whom I am well pleaſed, hear ye him.</hi>
+            </p>
+            <p>And in the 9, of the <hi>Acts,</hi> we find St. <hi>Paul</hi> in his journey to <hi>Damaſcus</hi> ſurpriz'd with an unuſual glory, with an heavenly light and brightneſs, a brightneſs that ſurpaſſed that of the Sun, as St. <hi>Paul</hi> afterwards af<g ref="char:EOLhyphen"/>firms to King <hi>Agrippa,</hi> and a voice from above to atteſt that Jeſus was not wrapt up in, but was that light and glory; ſome rayes of which were but dart<g ref="char:EOLhyphen"/>ed upon the Proto-martyr <hi>Stephen,</hi> and preſently all thoſe that ſate in the Council looking ſtedfaſtly upon him, ſaw his face as if it had been the face of an An<g ref="char:EOLhyphen"/>gel.</p>
+            <p>God gave him a foretaſt and an earneſt of his future happineſs, to make him ſteddy and unſhaken amidſt all the aſſaults of his Perſecutors, that he might ſlight and deſpiſe all the gayeties of this life, in compariſon of that glory with which he ſhould be hereafter en<g ref="char:EOLhyphen"/>circled; for he that is able to perform, hath promi<g ref="char:EOLhyphen"/>ſed, <hi>That the Righteous ſhall appear as the Sun in the kingdom of their Father, which he has purchaſed for all thoſe, who looking unto Jeſus, ſhall endure the Croſs and diſpiſe the ſhame, and fight the good fight of Faith under the Lords Banner ſucceſsfully.</hi>
+            </p>
+            <p n="2">2. And this leads us to to our Second thing Con<g ref="char:EOLhyphen"/>ſiderable, Namely, <hi>That this change will be for the better,</hi> of a vile to a glorious body, from ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h vile<g ref="char:EOLhyphen"/>neſs as we cannot expreſs, unto ſuch glory as we can<g ref="char:EOLhyphen"/>not concei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <pb n="6" facs="tcp:109097:6"/>
+            <p>Having already, in ſome meaſure ſeen, what the glorified Saints ſhall be faſhioned to, we need go no farther for the proof of the advantage of our Change, than to compare our preſent ſtate with our future glorification.</p>
+            <p>And truly a man need not be very inquiſitive to find out that this world is the place of ſorrow and diſappointments, of regret and diſſatisfaction, of luſt and wickedneſs. The whole world is full of ſnares and hazards, and we are no ſooner drop'd into it, but we are encompaſſed with ſo many dangers, that we may well ſay, that we are gotten into the quarters of an enemy, and every where expoſed to ruine. If we get into the ſhade and ſollitude, there our paſſions diſtract and worrie us, and we cannot be alone ſince the Devil is a Legion: If in a Crowd and Company, we have vice and bad diſpoſitions ſtampt with the in<g ref="char:EOLhyphen"/>ſinuating characters of Good Nature and Civility imprinted upon us, and from ſuch tis hard to think of a retreat. Indeed could we have a proſpect of this miſerable Theatre, we ſhould quickly ſee enough to rebate our keeneſt affections, and to make us nauſeate the moſt ſplendid ſcenes and repreſentations that are acted in it.</p>
+            <p>The horrors of War, and Rivers diſcoloured with humane blood, would make us deteſt the ambition and avarice that ſhed it. The Cabinets of ſome great men full of luſt and treachery, cruelty and oppreſsi<g ref="char:EOLhyphen"/>on,
+<pb n="7" facs="tcp:109097:6"/> would ſtifle our envy, notwithſtanding their Gold and Embroidery, their long Retinue and ſplen<g ref="char:EOLhyphen"/>did Equipage, and the other Lacquies of greatneſs.</p>
+            <p>Alas! tis but all an imaginary pomp, and a meer oſtentation of Vanities. The ſpectacle vaniſhes whilſt you look upon it, or death draws the Curtains, and ſhuffles us into the Regions of darkneſs.</p>
+            <p>We being all of us placed amidſt ſuch troops of malicious accidents, that it is a miracle parallel with our Creation that we ſtand one moment amongſt them. ſo that our preſervation alſo is the effect of an Almighty power.</p>
+            <p>Nay! Our Friends which ought to be the greateſt comfort of our lives, are but ſad uncertainties, like <hi>Amaſa,</hi> or <hi>Julius Caeſar;</hi> we often periſh by the pretended kindneſs of our Brethren and adopted Sons; However every Bravo that dares but ſcorn his own Life, may be maſter of ours: And all the while our health, the only reliſh of living, is the Slave of every ſeaſon, it is diſordered by heat, and encreaſed by cold; it ſhrinks and trembles at a froſt, looks pale and ſickens at a Sun-beam; whilſt the ſons of <hi>Hypo<g ref="char:EOLhyphen"/>crates,</hi> mortal as our ſelves, offer at reaſons to pro<g ref="char:EOLhyphen"/>tract our lives, and in the midſt of their Projects, dye themſelves to confute them.</p>
+            <p>Every man here is but too too truly a <hi>Benoni</hi> a ſon of Sorrow, for he that has the concurrence of the moſt advantageous circumſtances, ſadly finds that
+<pb n="8" facs="tcp:109097:7"/> there is ſtill ſomething wanting to compleat his hap<g ref="char:EOLhyphen"/>pineſs, which puts him upon anxious ſolicitudes and tremblings, fears and reſtleſs importunities; ſo that he ſpends his days in following what will be always out of his reach, till old age and death kindly put an end to his deſires and purſuits.</p>
+            <p>We are often ſick of deſire, and more diſeaſed with enjoyment; our very pleaſures cloy and nauſeate, and after a ſhort converſation, they diſcover the cheat, and ſhew their inſufficiencies which bring, us upon the irkſome gratings of a diſappointment.</p>
+            <p>Our expectations are defeated, but our deſires are reſtleſs and importunate, which faſtens upon ſome new Object, which after a long courtſhip only repeats the cheat, and plunges us in a deeper diſſatisfaction: ſtill we are in miſery, and ſtill liable to greater: What<g ref="char:EOLhyphen"/>ever our condition is, it has ſome mixtures and alleys of miſery; and when our delights flow in upon us, they do but bring us ſad tidings that they muſt alſo have an ebb; and our higheſt gratifications offend us with the bitter remembrance, <hi>that they must alſo vaniſh and decay.</hi>
+            </p>
+            <p>In ſhort, There is no circumſtance nor period of our preſent ſtate that doth not preach over <hi>Jobs</hi> Leſſon to us, <hi>that our time is not only ſhort but full of miſery alſo;</hi> So full, that the Infant when it comes into the world, cannot ſpeak, but it truly Prophecies, and foretells by its Crys, the follies of Childhood, and
+<pb n="9" facs="tcp:109097:7"/> the cares of riper years, and the aches and Catarhs of the hoary head: So that Life and Miſery are but too twins, and muſt live and dye together.</p>
+            <p>Our Childhood is conſumed in toys and fooliſh va<g ref="char:EOLhyphen"/>nities, our Youth in luſt and frivolous exerciſes, and our Manhood, which at beſt is but a painful careful<g ref="char:EOLhyphen"/>neſs, in crimes of a deeper dye; and when we have put all together from our Cradle to our Gray-hairs, there is nothing that remains to us but anxiety of thought, and the ſad fruit of our Iniquity, Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>This is our preſent ſtate, and every mans experi<g ref="char:EOLhyphen"/>ence atteſts it.</p>
+            <p>And now if we compare this ſtate with that of our Glorification, we ſhall preſently be convinc'd that our Change is advantageous: A Change wherein great<g ref="char:EOLhyphen"/>neſs is added to glory, weight to greatneſs, and eter<g ref="char:EOLhyphen"/>nity to them all.</p>
+            <p>A Change wherein there ſhall be no fears to diſ<g ref="char:EOLhyphen"/>quiet, no enemies to alarm, no dangers to ſubdue, no jealouſies and cares to diſtract, no grief, nor diſ<g ref="char:EOLhyphen"/>eaſes, nor any of the ſad attendants of Death to annoy or moleſt us.</p>
+            <p>A Change wherewith we ſhall be advanc'd above the regions of diſappointment and mutability, we ſhall have our habitations amongſt the Stars, and ſhine with a more continued glory.</p>
+            <p>A Change that will quite take us off our carking
+<pb n="10" facs="tcp:109097:8"/> ſollicitudes for the future, for we are told that we ſhall become as the Angels of God, freed from all thoſe neceſſities and conveniencies of ſupport which we are conſtrained to, whilſt here muffled up in matter.</p>
+            <p>A Change that will moſt compleatly and adequate<g ref="char:EOLhyphen"/>ly ſatisfie our moſt outſtretched deſires, ſo that we ſhall never be plunged into want, or any jealouſies ever ſo to be.</p>
+            <p>A Change that will cloth us with Glory, and ſo we ſhall need no other apparel, with immortality, and ſo we ſhall never crave the ſupports and repara<g ref="char:EOLhyphen"/>tion of food, nor any drugs and antidotes, for we ſhall be above the power of an Elementary compoſi<g ref="char:EOLhyphen"/>tion, and the wounds of an Earthly conſtitution.</p>
+            <p>Diſeaſes and Pains are but the Harbingers of death to uſher in a final divorſe of Soul and Body, but our Change will conquer death it ſelf; ſo that there will be no farther uſe of his ghaſtly retinue.</p>
+            <p>We ſhall for ever bid adeiu to languiſhing pulſes and broken ſighs, and we ſhall never again be in old <hi>Barzillai</hi>'s condition, who could neither taſt nor hear, but had outliv'd his ſenſes; for theſe ſhall be refined and ſublimated beyond the power of Age and Decay.</p>
+            <p>We ſhall be admitted into the preſence and enjoy<g ref="char:EOLhyphen"/>ment of an everlaſting felicity, and when we are fa<g ref="char:EOLhyphen"/>ſhioned to his glorious body, ſhall be acknowledged
+<pb n="11" facs="tcp:109097:8"/> 
+               <hi>Sons of the moſt higheſt;</hi> and ſure this is a happy Change</p>
+            <p n="3">3. <hi>Which</hi> 3ly. <hi>is wrought by our Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p>Our Text tells us <hi>that he ſhall do it by that power whereby he is able to ſubdue all things unto himſelf.</hi>
+            </p>
+            <p>A Power to which nothing is impoſſible or diffi<g ref="char:EOLhyphen"/>cult, a power that can rally the ſeparated parcells and ruines of our body to an union, as eaſily as at the firſt he ſpake them into being and activity, and as eaſily cloth the united fleſh with glory and immorta<g ref="char:EOLhyphen"/>lity.</p>
+            <p>If he pleaſes he can dart ſuch beams upon Man as he did upon Angels, and can change him into ſuch a life and luſtre, for he has all power given him both in Heaven and Earth, and there wants nothing but his inclination to do this for us, and that he will do it, he has engag'd his word to keep us from doubt or fainting; <hi>Father I will that they alſo whom thou haſt given me, be with me where I am, that they may behold the glory which thou haſt given me;</hi> and he farther words himſelf thus, <hi>And the glory which thou gaveſt me, I have given them,</hi> (as it he had ſaid) O Father it is my endeavour and deſire that all thoſe faithful ſervants which thou haſt given me, may en<g ref="char:EOLhyphen"/>joy the full participation of my glory, and that for this end they may at laſt be received up into thy Heavenly kingdom, for the Glory which thou haſt
+<pb n="12" facs="tcp:109097:9"/> given me I have not received nor reſerved for my ſelf, but will communicate it to the members of my body, and will ſtamp them with the ſame glorious impreſsion.</p>
+            <p>Thus did our faithful High Prieſt ſtoop to the in<g ref="char:EOLhyphen"/>firmities of our nature that he might exalt it, and in<g ref="char:EOLhyphen"/>ſtate us in an Eternity of glory if we ſhall faithfully approve our ſelves to him here, <hi>by keeping Conſci<g ref="char:EOLhyphen"/>ences void of offence towards God and towards man.</hi> Which more then hints to us to conſider the Practi<g ref="char:EOLhyphen"/>cal part of our Text, namely what we are to do in or<g ref="char:EOLhyphen"/>der to this glorious Change. Which is</p>
+            <p>
+               <hi>To have our Converſation in Heaven:</hi> By which is meant, our leading ſuch an holy and godly life here, as our Religion bids us expect hereafter; or in the words of the Apoſtle, <hi>To be holy as he that hath called us is Holy: To be holy in all manner of Con<g ref="char:EOLhyphen"/>verſation.</hi> And indeed till we are ſo, we ſhould have no reliſh even of Heaven it ſelf, Nay we ſhould grope for Paradice in the midſt of it.</p>
+            <p>What ſatisfaction can there be in that happineſs to a man drowned in ſenſualities, which is the Object only of pure and refined Souls, ſo that the pure in heart muſt only ſee God.</p>
+            <p>What ſhould the Luxurious man, who makes it the buſineſs and the deſign of his life to eat and pro<g ref="char:EOLhyphen"/>voke Hunger, what reliſh can he have of the place <hi>where they neither hunger nor thirst.</hi>
+            </p>
+            <pb n="13" facs="tcp:109097:9"/>
+            <p>What ſhould the man of Wantonneſs and Dalli<g ref="char:EOLhyphen"/>ances who will ſacrifice his manhood and his reaſon to a bruitiſh ſenſuality? what ſhould he do there <hi>where they neither marry nor are given in marriage.</hi>
+            </p>
+            <p>What ſhould the ſtormy revengeful man, who de<g ref="char:EOLhyphen"/>lights only in Blood and Slaughter? what ſhould he do there <hi>where there is nought but concord and love, and where there are no flames but ſuch as kindle Sera<g ref="char:EOLhyphen"/>phims.</hi>
+            </p>
+            <p>Our ſenſes cannot only not be admitted into Hea<g ref="char:EOLhyphen"/>ven, but if they were to be ſo, they could not enjoy it, whilſt blurr'd and ſullied with the black characters of an ill ſpent life.</p>
+            <p>If we could ſuppoſe a Vicious man ſhould carry his evil inclinations of Pride and Envy, Malice and Revenge, Luſt and Intemperance, to that glorious Kingdom with him; Heaven would be no Heaven to ſuch a one, the Place would be odious, the Com<g ref="char:EOLhyphen"/>pany troubleſome, the Imployment ungrateful, and the Eternity a burden intollerable, he would be un<g ref="char:EOLhyphen"/>eaſy to holy Souls and they to him.</p>
+            <p>So that Fleſh and Blood not only muſt not, <hi>but cannot inherit the Kingdom of God,</hi> not till our ſouls are conform'd to ſuch a rectitude as they ſtand diſpo<g ref="char:EOLhyphen"/>ſed in their reſpective offices, to perform their Makers will, are they fit to enjoy him?</p>
+            <p>
+               <hi>So that our Converſation must be in Heaven whilſt we are here in our earthly pilgrimage,</hi> if ever we intend
+<pb n="14" facs="tcp:109097:10"/> to be glorified Citizens of the Jeruſalem above, and we muſt endeavor to make good by our practiſe, what we every day pretend to deſire of God by our Prayers, (namely) that his will may be done by us on earth with as much chearfulneſs and alacrity, as it is by his Angels his winged meſſengers, in Heaven.</p>
+            <p n="2">2. To which we muſt add the ſecond part of our Text, and that is, <hi>To look for and expect our Savi<g ref="char:EOLhyphen"/>ours coming,</hi> which implies Conſtancy and Perſever<g ref="char:EOLhyphen"/>ance in our duties; to have our Account right ſta<g ref="char:EOLhyphen"/>ted and ready caſt up, becauſe we know not how ſoon we ſhall be ſummoned to give <hi>an account of our stewardſhip.</hi> The Text indeed ſeems to mean <hi>the last coming of Chriſt to Judgment,</hi> but every mans particular doom to which the day of death conſigns him, is approaching even at the doors.</p>
+            <p>The<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore it highly concerns us all to keep our faculties wakeful and vigilent, that we may not be ſurpriz'd by the day of darkneſs, that we may never go out of the world with the Fools Motto in our Mouths, with a <hi>non putabam, I did not think.</hi>
+            </p>
+            <p>It concerns us whilſt it is called to day, to improve every advantage and opportunity to our great and only intereſt, to ſettle our thoughts, deſires, and affections, upon Heavenly matters; and by our pru<g ref="char:EOLhyphen"/>dence, to anticipate that farewel which we muſt give to all the enjoyments of this life, and to engage not only our deſires, but our endeavors alſo after that
+<pb n="15" facs="tcp:109097:10"/> prize which God the righteous Judge will give to all thoſe who ſhall ſo expect his coming, as to paſs the time of their ſojourning here in fear.</p>
+            <p>To all thoſe who ſhall ſo wait for the appearance of our Saviour as the Scripture in other places phraſes it, <hi>as to deny ungodlineſs and worldly lusts, and live ſoberly righteouſly and godly in this preſent evil and wicked world.</hi>
+            </p>
+            <p>I had proceeded to have inforc'd this great duty upon you by more Arguments, had not I been ſen<g ref="char:EOLhyphen"/>ſible that Examples ſpeak louder and more forcible then Precepts, and inſinuate themſelves even into the heart and ſoul.</p>
+            <p>And here I moſt humbly deſire this honourable Auditory to aſſiſt my Meditations, and enrich their own, by the great and holy Example of that honor<g ref="char:EOLhyphen"/>able Perſon whoſe Obſequies have this day called us together, of that perſon one of the greateſt exam<g ref="char:EOLhyphen"/>ples of Faith and Godlineſs, Grace and Goodneſs, Piety and Purity, and all other great and illuſtrious Ornaments flowing from a holy and noble Spirit, as ever our Nation hath produced in this latter Age. Of that Perſon whoſe heavenly Converſation and Reli<g ref="char:EOLhyphen"/>gious Conſtancy, beſpeak your Imitation as well as Praiſes, which ſhe did not repreſent to us in faint Semblances and Speculation, but in a lively Opera<g ref="char:EOLhyphen"/>tion and Activity through all the courſe of a long and bleſſed age.</p>
+            <pb n="16" facs="tcp:109097:11"/>
+            <p>And now perhaps you expect her Character, but truly the Object is ſo Illuſtrious, that it dazels, but yet ſo Eminent and Copious, that it would make any man commence Oratour.</p>
+            <p>Be pleaſed then to look upon her in her firſt Riſe, and you will find her the eldeſt Daughter of that Right Honorable <hi>Baptiſt Hicks</hi> Vicount <hi>Bampden,</hi> by <hi>Elizabeth May</hi> his Lady and religious Conſort, Perſons not to be named without Honor and Vene<g ref="char:EOLhyphen"/>ration, whoſe bounties in devoting to God and the Poor, each of them their 10000 for Pious and Cha<g ref="char:EOLhyphen"/>ritable uſes, ſtand upon Record as Monuments of everlaſting Praiſe.</p>
+            <p>Their Honors were not acquired by a ſlaviſh pro<g ref="char:EOLhyphen"/>ſtitution of Conſcience and Honeſty, but by Wiſ<g ref="char:EOLhyphen"/>dom and Vertue, Integrity and Prudence, the beſt foundation of a laſting Greatneſs. The very attri<g ref="char:EOLhyphen"/>butes of their Honor might be digeſted into an Al<g ref="char:EOLhyphen"/>phabet to regiſter the Eternal Fame of this Ladies moſt worthy Progenitors.</p>
+            <p>And how well and exactly ſhe declared her ſelf deſ<g ref="char:EOLhyphen"/>cended from ſuch, by building upon that founda<g ref="char:EOLhyphen"/>tion, is ſo univerſally known, as need not be inſiſted upon.</p>
+            <p>She did not diminiſh, but add to the glory of her Progenitors; ſhe did not live as a monument, to tell the world that They had been, but what They were.</p>
+            <pb n="17" facs="tcp:109097:11"/>
+            <p>And though they religiouſly devoted ſuch vaſt ſumms to Pious and charitable deſigns, that they will always be recorded as laſting and perpetual monu<g ref="char:EOLhyphen"/>ments of their Praiſe (as before was mentioned;) yet did this Honorable Lady Blazon their piety with a more excellent Heraldry, whilſt her graces and ver<g ref="char:EOLhyphen"/>tues which were ſo conſpicuouſly Eminent, were built upon that excellent Education and Examples with which they had ſeaſoned her tendereſt age; which ſhe did ſo conſtantly improve, that they ſhined more and more to a perfect glory.</p>
+            <p>Look upon her Perſonal Endowments, and you'll find a quick Apprehenſion, a ſound Judgment, a ſo<g ref="char:EOLhyphen"/>lid Wiſdom, and a ſprightful undaunted Courage, lodged in a graceful Body, qualified with an excel<g ref="char:EOLhyphen"/>lent Mein and a winning Aſpect, with a condeſcend<g ref="char:EOLhyphen"/>ing, courteous, affable, and truly Chriſtian Deport<g ref="char:EOLhyphen"/>ment, which demonſtrated that She valued her ſelf not upon the Grandures and Titles that attend her Fortune, but that ſhe had laid her Foundation lower, ſtronger, in making it more ſolid and laſting, by building upon Vertue and Piety.</p>
+            <p>She was indeed a Conſtellation of Eminencies, every one like a Star of the firſt Magnitude, ſhining gloriouſly in its ſingle Luſtre, and all in Combination like the Sun in its <hi>Zenith,</hi> enough to dazle the eyes of our inferiour Capacities, and forbid me to ſay any more, becauſe I can never ſay enough.</p>
+            <pb n="18" facs="tcp:109097:12"/>
+            <p>Look upon her as a Wife, Mother, Widow, Neighbour, Subject, Chriſtian, and you'll find her moſt Eminent in all capacities.</p>
+            <p n="1">1. She was a moſt vertuous, loving, faithful and obliging Wife, though of a vaſt and noble fortune; which ſwells too many into Pride and Forgetfulneſs, and makes them rather Tyrannical than Endearing. But in this Lady nothing was wanting of Humility and Pleaſantneſs, of Wiſdom and Subjection, of Wealth and Beauty, of Chaſtity or Affection, to the making her a Principal and a Precedent to the beſt of wives in the world.</p>
+            <p n="2">2. She was a moſt indulgent, tender, and careful Mother, which extended beyond the days of her Marriage even to her death, embracing all her Off<g ref="char:EOLhyphen"/>ſpring with the careſſes of Nature and Religion; inſtructing and governing both Children and Grand-children in the fear of God, and loyalty to their Prince; with ſuch Gravity and Authority, tempered with winning Meekneſs, and more then ordinary Pru<g ref="char:EOLhyphen"/>dence, as might reduce all Vicious Inclinations, and incourage every thing that is good: So conſiderately kind, as not to neglect the welfare of their Souls, in providing for their bodies, but principally taking care of that, as knowing that to live ſplendid in the world without living unto God, was to die whilſt we live, and live and die miſerably. The nume<g ref="char:EOLhyphen"/>rous and noble Stemns which ſprung from this noble
+<pb n="19" facs="tcp:109097:12"/> Line, being genuine Heirs of vertues and goodneſs, bleſt in deſcending from her Loyn, but more in aſ<g ref="char:EOLhyphen"/>cending to her Graces.</p>
+            <p n="3">3. Conſider her as a Neighbour, and you will find her Charitable, Courteous, Prudent, and Engageing.</p>
+            <p>Her Doors without any tall Porters, Her Tables richly ſpread twice a day; ſo furniſht, that they were to others what her Conſcience was to her ſelf, <hi>a Continual feaſt.</hi> Neighbours and Strangers might with greateſt freedom, partake of her liberal Provi<g ref="char:EOLhyphen"/>ſions, and find a Cheerful, as well as Plentiful recep<g ref="char:EOLhyphen"/>tion. Theſe her entertainments were not <hi>Cleopa<g ref="char:EOLhyphen"/>tra's</hi> Revels, nor <hi>Sempronia</hi>'s Luxury, whoſe feaſt<g ref="char:EOLhyphen"/>ings were always as great in Sin, as Abundance, and ſavoured more of Wickedneſs, then Pomp. But whilſt others feaſt their equals, their peers; expect<g ref="char:EOLhyphen"/>ing returns and circular Retreatments, as if they did not make, but trade Banquets; She fed ſuch Pen<g ref="char:EOLhyphen"/>ſioners as brought with them their wants: God that provided her Plenty, provided her Gueſts, and what She gave to Hunger, She gave to Heaven.</p>
+            <p>Therefore if the Poor do not extol her, if they do not cry out, the Stones will; ſo do her works praiſe her in the Gates. Seldom indeed, if ever, did a wiſe, a large Heart, and a plentiful Fortune, ſo lo<g ref="char:EOLhyphen"/>vingly embrance and kiſs each other.</p>
+            <p>If you'll take a view of Her in her Family, you cannot but ſay that She deſerves <hi>Solomon</hi>'s Character
+<pb n="20" facs="tcp:109097:13"/> of a wiſe Woman, <hi>for ſhe was one that look'd well to the ways of her own houſe:</hi> In the prudent mana<g ref="char:EOLhyphen"/>gery whereof ſhe ſeem'd to covet all, in her liberal dole ſhe ſeemed to deſire nothing.</p>
+            <p n="4">4. Look upon her as a Widow, out of this cloud alſo will a great light ſhine, to her eternal praiſe and honour.</p>
+            <p>The Fathers counted it no Paradox, to parallel the ſtate of pious and religious Widowhood, with that of the moſt cloiſtered and ſacred Virginity.</p>
+            <p>St. <hi>Ambroſe</hi> ſpeaks to this purpoſe, <hi>non minus eſt tentata conjugii recuſare oblectamenta, quam nunquam tentare; It is no leſs victory to deſpiſe the pleaſures which they have known, then never to have known the pleaſures which they deſpiſe.</hi>
+            </p>
+            <p>When the great Famine was at <hi>Samaria,</hi> in the days of <hi>Ahab,</hi> Almighty God did not ſend his Pro<g ref="char:EOLhyphen"/>phet to Queens, or Empreſſes, or any great Ladies; but unto a Widow of <hi>Sarepta,</hi> poor perhaps in ſtate, but rich in faith, and as apt to increaſe in grace by the love of the Lord, as the <hi>meal in the barrel,</hi> or <hi>the oyl in the cruſe,</hi> by the Miracle of the Lord.</p>
+            <p>The firſt woman that receiv'd Chriſt in the Tem<g ref="char:EOLhyphen"/>ple, was the Propheteſs <hi>Anna,</hi> a Widow of Four<g ref="char:EOLhyphen"/>ſcore and four years old, yet fuller of zeal then years; for ſhe was fixt to the Temple as the Stars to their Orbs, and never forſook it night or day.</p>
+            <p>And this moſt Honourable Lady that we come now
+<pb n="21" facs="tcp:109097:13"/> to Entomb (or rather to Enſhrine) may well be lookt upon as her livelieſt parallel, if not in the years, yet in the devotions of her Widowhood: For though ſhe honoured and frequented the pub<g ref="char:EOLhyphen"/>lick houſe of God, with as publick and frequent zeal as any of the moſt Primitive and Apoſtolical Wi<g ref="char:EOLhyphen"/>dowhood; yet was ſhe of ſuch a Sanctuary conver<g ref="char:EOLhyphen"/>ſation, as well without as within the ſacred Cloiſters, that ſhe made all places holy ground wherever ſhe came: Her Table was a Temple, her Chamber a Chappel.</p>
+            <p>A Lady of ſo great a fortune and ſuch rare ac<g ref="char:EOLhyphen"/>compliſhments, could not (without queſtion) in her firſt years of Widowhood, but meet with ſome ſo<g ref="char:EOLhyphen"/>licitations to change her condition: but ſhe ſtood reſolved againſt all Preſumers: God might change her life, the whole world could not change her mind.</p>
+            <p>She might put off (in their ſeaſon) her mourning weeds and forſake her firſt garments, but never her firſt Love.</p>
+            <p>The Apoſtle ſpeaks of ſome he calls <hi>Widows in<g ref="char:EOLhyphen"/>deed</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Widows in the work and not only in the name of widowhood:</hi> Such an one he requires to be truly honored as ſhe is really honourable, and ſets down her deſcription, 1 <hi>Tim.</hi> 5.10. <hi>If ſhe have brought up children, if ſhe have been hoſpitable, if ſhe have waſhed the feet of the Saints, if ſhe have relieved the afflicted, if ſhe have diligently followed
+<pb n="22" facs="tcp:109097:14"/> every good work:</hi> All theſe religious Characters were written in letters of Gold upon the Soul of our moſt noble and pious Lady now with the Lord.</p>
+            <p>She was <hi>eyes to the blind, and feat to the lame, a mother to the fatherleſs.</hi>
+            </p>
+            <p>If any in the Neighbourhood were ſick or ſore, or languiſhing; ſhe was a Healer as well as a Relie<g ref="char:EOLhyphen"/>ver: Rich in Phyſical, as well as Chriſtian graces.</p>
+            <p>Her Cloſet was a Treaſury of the choiceſt Receits, Cordials, Electuaries, which were always as free as they were excellent, deriving vertue and efficacy not only from their Ingredients, but alſo (and that more too) from their Donour.</p>
+            <p n="5">5. She was a moſt obedient Daughter to her ten<g ref="char:EOLhyphen"/>der Mother the Church of <hi>England,</hi> and a Loyal Sub<g ref="char:EOLhyphen"/>ject to the Defendour of her Faith, and Father of her Country.</p>
+            <p>She maintained that faith which was once delivered to the Saints, and ſo did ſhe conſtantly <hi>worſhip the God of her fathers.</hi>
+            </p>
+            <p>So conſtantly, that no Mountebanks of the laſt age, could cheat her: none of thoſe furious Tranſ<g ref="char:EOLhyphen"/>ports, and ſchiſmatical Innovations (though wrapt up in the ſpecious gilt of a ſolemn Covenant) could abate her Zeal, or devide her Devotion; but ſtill ſhe profeſſed, preſerved, and practiſed her obedience to the true Church, and true Sovereign, conſtantly a<g ref="char:EOLhyphen"/>doring God in the one, and owning all due Loyalty
+<pb n="23" facs="tcp:109097:14"/> to the other, worſhipping her Maker publickly in moſt exact conformity to the Law; ſo as ſhe both glorified Him the Lord of Heaven, and gave an emi<g ref="char:EOLhyphen"/>nent example of true Piety to all her neighbours.</p>
+            <p n="6">6. Look upon her as a Chriſtian, and you'l find her as much as poſſible avoiding the very ſhadows and ap<g ref="char:EOLhyphen"/>pearances of Evil; deſiring to be found in holineſs, as well as to abide in Chriſt; endeavouring <hi>to walk as he alſo walked,</hi> to tranſcribe his great and excellent copy in his faith and patience, in his meekneſs and humility, and in all the whole Conſtellation of graces.</p>
+            <p>In all her religion ſhe kept the vertuous <hi>medium</hi> between Faction and Superſtition, between the abo<g ref="char:EOLhyphen"/>minations of <hi>Amſterdam</hi> and thoſe of <hi>Rome,</hi> look<g ref="char:EOLhyphen"/>ing upon a Conventicle and a Maſs, as equally Apo<g ref="char:EOLhyphen"/>chryphal; and which is no ſmall honour, ſtill making the Law of the Church, and the Peace of <hi>Jeruſalem,</hi> the touchſtone of her obedience.</p>
+            <p>She ſtood unſhaken in the midſt of a Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fligate age, and was true to her Vertue and Heaven, even then when it 'twas both a reputed Crime and aſſured Danger ſo to do. And whilſt others lived as if they had been ſent into the world only to eat and drink and riſe up to play; her great care and deſign was to paſs through and behave her ſelf amongſt the contin<g ref="char:EOLhyphen"/>gencies of a fleeting world, that ſhe might not miſs the haven of an eternal reſt.</p>
+            <p>And whereas ſome we ſee ſordidly beſotted with
+<pb n="24" facs="tcp:109097:15"/> vain pleaſures, and their ſouls in a tame compaſſion for quietneſs ſake, content to connive at folly; this Honourable Lady was ſo ambitious of the ſtricteſt commands of the moſt Holy God, that (as they ſay Heaven is <hi>anima viſibilis,</hi> ſo) her whole body ſeem<g ref="char:EOLhyphen"/>ed to be converted into ſoul, all zeal and delight in his ſervice: and ſo conſtantly converſing with God in his word, that as St. <hi>Hierom</hi> ſpeaks of <hi>Paulina, ver<g ref="char:EOLhyphen"/>tus ferebat Bibliothecam Chriſti, ſhe had tranſcribed the Bible in her heart.</hi>
+            </p>
+            <p>Nor muſt I forget to tell you how duly the ſacri<g ref="char:EOLhyphen"/>fice of Prayer and Praiſe was offered to God in her Family; every day three times in publick; twice in that excellent form of our Church; She conſtantly attending (when able) in her own perſon, and ex<g ref="char:EOLhyphen"/>preſsing admirable and almoſt Seraphical devotion; endeavouring to manage her worſhip in ſuch manner, as became God who received it, and her ſelf who preſented it. And a third time in a ſhort form, at an early hour, proper for Servants before they go to any wordly buſineſs, or their daily work, that the firſt fruits of their time being offered to God, might Conſecrate the reſt of the day.</p>
+            <p>Beſides her Publick, ſhe was conſtantly in her Clo<g ref="char:EOLhyphen"/>ſet devotion, the way of the cloſeſt-communion with God, where Heaven it ſelf came down to receive her pious Ejaculations and Prayers.</p>
+            <p>Theſe are the things Right Honourable, that not
+<pb n="25" facs="tcp:109097:15"/> only Men, but God applaudes; and thoſe that in<g ref="char:EOLhyphen"/>tend to purchaſe Honour to themſelves, as we are all ambitious, muſt tread the ſame path; and if we would be Happy as ſhe is, and that's the deſire of us all, we muſt be Holy as ſhe was, and that's the duty of us all.</p>
+            <p>Indeed ſhe was great and excellent, that is her Self, in every action, lived as God required of his people, <hi>did juſtly, loved mercy, and walk'd humbly with her God,</hi> ſo that graces and vertues ſeem to have been the very Elements of her Conſtitution.</p>
+            <p>And were he that ſaid, <hi>vertue was only an empty name,</hi> now amongſt the Living, he muſt have recanted his opinion, or betray'd his faculties; for it was in her embodied, and he might have converſt with it in an humane ſhape; as if God had deſigned her to let us ſee how near to the divine Humane nature may ap<g ref="char:EOLhyphen"/>proach. So far was ſhe from any indifferency in Re<g ref="char:EOLhyphen"/>ligion, that I dare challenge the moſt rigid Sectary, I mean the moſt cenſorius Perſon in the world, to pro<g ref="char:EOLhyphen"/>duce one ſingle ſuſpition of the leaſt hypocriſy, for<g ref="char:EOLhyphen"/>mality, or lukewarmneſs in her Profeſsion and De<g ref="char:EOLhyphen"/>votion.</p>
+            <p>No, the Religion of this excellent perſon was of another Conſtitution, it took root downward in Humility, and brought forth fruit upward in every thing that was praiſe-worthy.</p>
+            <p>If we know not what Vertue and Humanity are, what is comely &amp; venerable, what is lovely and praiſe-worthy,
+<pb n="26" facs="tcp:109097:16"/> what is fit and equal, what is true and juſt, we may learn by the words, and actions, and beha<g ref="char:EOLhyphen"/>viour of this Noble perſon, of a great and harmleſs Wit, of chearful Gravity, and obliging Behaviour.</p>
+            <p>She could be chearful without levity, ſpeak mer<g ref="char:EOLhyphen"/>rily without uttering folly, adorn her ſelf in rich ap<g ref="char:EOLhyphen"/>parel without pride and a phantaſtick dreſs.</p>
+            <p>She was conſtant to her promiſe, and candid to others failures, preferring fidelity before profit, and mercy before rigour; willing to reprove, yet loath to exaſperate.</p>
+            <p>Such an exact texture of Graces and Vertues, that in her departure there is a univerſal Loſs; to the good, becauſe they'l want the vertuous example which they love; and to the bad, becauſe they'l want the pious example which they need.</p>
+            <p>And for her ſeveral eminencies, I may take up the ſpeech of St. <hi>Paul</hi> in his Catalogue of thoſe eminent Saints, <hi>Heb.</hi> 11.32. <hi>and what ſhall I ſay more.</hi>
+            </p>
+            <p>Thus lived this moſt Honourable Lady, and thus ſhe taught us to live.</p>
+            <p>Being ſo eminently pious, we may well ſay with the true Emphaſis, <hi>that ſhe lived to a good old age,</hi> her years exceeding not only the leſſer, but the larger account given by <hi>Moſes</hi> of Mans life, 70 or 80 years being extended to 96, which we may look upon partly as a <hi>Guerdon</hi> of her pious Life, and partly as a pledge and conſignment of Eternal life hereafter.</p>
+            <pb n="27" facs="tcp:109097:16"/>
+            <p>But <hi>it is appointed to all men once to die,</hi> and die ſhe therefore muſt. This houſe which our ſouls now inhabit, is but earthly, and ſin hath put it into diſ<g ref="char:EOLhyphen"/>order, and hath brought a Conſumption upon it, as well through God's anger, as its own diſtempers; and as it daily decays, ſo it will, ſo it muſt once diſſolve and fall.</p>
+            <p>
+               <hi>The pale meſſenger therefore comes to give</hi> her <hi>a ſummons to appear before</hi> her <hi>judge:</hi> Death with all his gaſtly troops of Stone, Spleen, Aches ſtorm and diſmantle her body: <hi>Eſt mihi crede virtuti etiam in lectulo locus,</hi> ſaid <hi>Seneca</hi> to his dear <hi>Lucilius, Then are vertue and fortitude beſt diſplayed, when our strength lies bed-rid, and our diſeaſes inwrap us in ſheets of Torture.</hi>
+            </p>
+            <p>And yet in the midſt of all theſe pining agonies, and faint languiſhings, her patience ſtood unſhaken and undiſturbed, in the face of Death; And with that ſtrength of faith and undaunted courage, kept cloſe to her God, as if ſhe would conquer Death be<g ref="char:EOLhyphen"/>fore it encountered her: ſtill maintaining that firm truſt in God through the merits of her Saviour, that <hi>mortalitas potius finita eſt quam vita, this frail body ſubmitted to mortality and her heaven-born ſoul,</hi> when death had opened the door, <hi>breathed it ſelf into the hand of her Redeemer,</hi> triumphantly ſinging her <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Death has loſt his sting, and I have got the victory.</hi>
+            </p>
+            <pb n="28" facs="tcp:109097:17"/>
+            <p>Thus this Heavenly Lady bequeathed her ſacred body to the Grave, <hi>in aſſured hopes of the Reſurrection to Eternal life.</hi>
+            </p>
+            <p>There ſhall theſe hallowed aſhes be mummoyed up and preſerved by the protection of Angels; and from thence ſhall every atome of her ſacred duſt be rallied, and recompoſed into the glorious image of the Son of God.</p>
+            <p>Then ſhall this purified body (as it were) again woe its glorified ſoul, and Chriſt being the High Prieſt, Eternity the Ring, the new-Jeruſalem the Church, Angels the Choyre, Peace of Conſcience the Feaſt, Chriſts Righteouſneſs the Wedding Gar<g ref="char:EOLhyphen"/>ment, Soul and Body ſhall be Eternally married together, and her Saviour and the whole Trinity ſhall approve and applaud the union, ſaying, <hi>Well done good and faithful ſervant, enter into thy Maſters joy, joy unſpeakable and full of glory.</hi>
+            </p>
+            <p>And now I ſhould here conclude, but ſeeing ſuch a ſolemn appearance of ſuch honourable Mourners be<g ref="char:EOLhyphen"/>fore mine eyes, I cannot but humbly crave leave to commend a word or two to their more perſonal Me<g ref="char:EOLhyphen"/>ditations; and the good Lord make them Operative and Impreſſive.</p>
+            <p>She was the Rock whence ye were moſt hewen, the Pit whence moſt of you were digged; <hi>O that her name might be Immortal in her Poſterity; and her Poſterity Immortal in her vertues.</hi>
+            </p>
+            <pb n="29" facs="tcp:109097:17"/>
+            <p>I do not believe the tranſmigration of Souls, I only deſire tranſmigration of Graces; that as ye are en<g ref="char:EOLhyphen"/>riched with her Poſſeſſions and Legacies, ſo ye may all be enobled with her Vertues and Excellencies.</p>
+            <p>Then ſhall her remembrance ſhine in her Relati<g ref="char:EOLhyphen"/>ons, and her Relations ſhine in her example. Patern out her Piety, her Charity; patern out her Zeal and Devotion; her Juſtice and Chaſtity her Courteſy, her Conſtancy; Conſtancy in all that was good, all that was praiſe-worthy; and yee ſhall become not on<g ref="char:EOLhyphen"/>ly her Poſterity, but her Monument: A Monument of Gold, which if ſin does not corrupt, time can ne<g ref="char:EOLhyphen"/>ver deface.</p>
+            <p>Now indeed her <hi>Silver Cord is looſed, and her Golden Bowle is broken;</hi> yet ſhe is not dead but liv<g ref="char:EOLhyphen"/>eth; liveth in you as long as you live in piety; ſhine<g ref="char:EOLhyphen"/>eth in you as long as you ſhine in goodneſs: And be ye well aſſured, that thoſe who live as Saints on earth ſhall undoubtedly ſhine as Stars in Heaven.</p>
+            <p>Avoid (as this good Lady did) all appearances of evil, and then at the day of the Great appearance, yee ſhall be as glorious among others, as yee are No<g ref="char:EOLhyphen"/>ble above others.</p>
+            <p>Bleſſed be God that you do not defile the dignity of your perſons with the indignities of ſin: This were to bring a Cloud upon the luſtre of your line: for alaſs they are Apoſtates unto honor that are Apoſtates unto grace.</p>
+            <pb n="30" facs="tcp:109097:18"/>
+            <p>The times indeed in which you live, are as truly the worſt as the laſt of days: Wickedneſs grown up to the exceſs of abominations, triumphing every where <hi>effraeni &amp; effronti audaciâ, without the conſci<g ref="char:EOLhyphen"/>ence of Shame or the controlings of Puniſhment.</hi>
+            </p>
+            <p>So that except a man be an <hi>Abraham</hi> in <hi>Meſopota<g ref="char:EOLhyphen"/>mia,</hi> a <hi>Job</hi> in the Land of <hi>
+                  <g ref="char:V">Ʋ</g>z,</hi> a <hi>Lot</hi> in <hi>Sodom,</hi> or a <hi>Joſeph</hi> in <hi>Potaphars</hi> houſe, It is as hard to keep him<g ref="char:EOLhyphen"/>ſelf from the Temptations of the times, as to re<g ref="char:EOLhyphen"/>form the times from their headlong Temptations. But it will be the honour of all your Honours, to look higher then the days in which you live.</p>
+            <p>You have great Examples in your own Family: Piety, Loyalty, Charity, Temperance, Continence, Religion, have for many years paſt found a Sanctuary there.</p>
+            <p>Remember then that to carry on theſe Chriſtian excellencies, is to carry on the dignity of your An<g ref="char:EOLhyphen"/>ceſtors.</p>
+            <p>High Obligations lye upon you for Piety, not only from your God but from your bloud.</p>
+            <p>Look upon the Herſe that ſtands before you, it ſpeaks, though dead.</p>
+            <p>St. <hi>Timothy</hi> was ſent back to conſider the faith of his Mother, and the faith of his Grand-mother: You have here alſo in this deceaſed Lady, a Grand-mother <hi>Lois</hi> and a Mother <hi>Eunice:</hi> The unfeigned faith and unſtained goodneſs that dwelt in her, muſt dwell in you likewiſe.</p>
+            <pb n="31" facs="tcp:109097:18"/>
+            <p>This will be your kindneſs to her and make her Name precious; this will be your kindneſs to your ſelves, and make your Souls precious.</p>
+            <p>
+               <hi>Bleſsed is that Family where holyneſs is cultivated: as if it were quartered in their Eſcutchions as well as in their hearts: they ſhall inherit the bleſſing: For the Lord our God is a jealous God, viſiting the iniqui<g ref="char:EOLhyphen"/>ty of the Fathers upon the Children unto the third and fourth generation of them that hate him, but ſhewing mercy unto thouſands of them that love him and keep his Commandements.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
